@@ -49,5 +49,6 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/oluwaseyi-akinsanya-852314184/](https://www.linkedin.com/in/oluwaseyi-akinsanya-852314184/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseyi-akinsanya-852314184/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:seyiakinsanya1999@gmail.com)
