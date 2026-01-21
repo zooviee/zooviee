@@ -42,6 +42,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+
 
 ## 📁 Projects
 <table> <tr> <td width="50%"> <h3>📊 Twitter Sentiment Analysis</h3> <ul> <li>Real-time tweet sentiment classifier using Scikit-learn</li> <li>Deployed with Streamlit Cloud</li> <li>Trained with labeled Twitter data</li> </ul> <a href="https://zooviee-twitter-sentiment-streamlit-app-wf8th0.streamlit.app/" target="_blank">🌐 Live App</a> | <a href="https://github.com/zooviee/twitter-sentiment-streamlit" target="_blank">📂 GitHub</a> </td> <td width="50%"> <h3>📈 Customer Churn Dashboard (Tableau)</h3> <ul> <li>Built an interactive dashboard from customer data</li> <li>Visualized customer purchase behavior, top customers, and KPIs</li> <li>Included slicers</li> </ul> <a href="https://public.tableau.com/app/profile/oluwaseyi.akinsanya/viz/CustomerChurnAnalysis_17436951427130/CustomerChurnStory" target="_blank">🔗 Preview</a> | <a href="https://github.com/zooviee/Customer-Churn-Analysis" target="_blank">📂 GitHub</a> </td> </tr> <tr> <td width="50%"> 
