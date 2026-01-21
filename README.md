@@ -18,9 +18,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3B4D54?logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-579ACA?logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)
+
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 ### 🤖 Machine Learning & AI
