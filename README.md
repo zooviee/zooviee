@@ -3,7 +3,7 @@
 **Engineer by training, data scientist by passion — decoding stories from numbers and deploying them to the world.**
 
 ## 💼 Skills
-<table> <tr> <th>🧠 Core Data Science</th> <th>🛠 Tools & Libraries</th> <th>🌟 Soft Skills</th> </tr> <tr> <td> • Exploratory Data Analysis (EDA)<br> • Statistical Modeling<br> • Machine Learning (Supervised & Unsupervised)<br> • Predictive Analytics<br> • A/B Testing & Hypothesis Testing </td> <td> • Python (NumPy, Pandas, Scikit-learn)<br> • SQL (MySQL, PostgreSQL)<br> • Power BI, Tableau<br> • Streamlit, Jupyter Notebooks<br> • Git, GitHub, Colab </td> <td> • Critical Thinking<br> • Communication of Complex Ideas<br> • Team Collaboration<br> • Adaptability & Learning<br> • Time Management </td> </tr> </table>
+<table> <tr> <th>🧠 Core Data Science</th> <th>🛠 Tools & Libraries</th> <th>🌟 Soft Skills</th> </tr> <tr> <td> • Exploratory Data Analysis (EDA)<br> • Statistical Modeling<br> • Machine Learning <br> • Predictive Analytics<br> • A/B Testing & Hypothesis Testing </td> <td> • Python (NumPy, Pandas, Scikit-learn)<br> • SQL (MySQL, PostgreSQL)<br> • Power BI, Tableau<br> • Streamlit, Jupyter Notebooks<br> • Git, GitHub, Colab </td> <td> • Critical Thinking<br> • Communication of Complex Ideas<br> • Team Collaboration<br> • Adaptability & Learning<br> • Time Management </td> </tr> </table>
 
 ## 🚀 Tech Stack
 
